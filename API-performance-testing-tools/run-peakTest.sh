@@ -12,7 +12,7 @@ var_path=${PWD}
 
 
 echo "--------------------------------------------------------------------------------------"
-echo "Load testing with Grafana dashboard http://localhost:3000/d/k6/k6-load-testing-results"
+echo "Load testing with Grafana dashboard http://localhost:3000/d/k6/resultats-des-tests-de-charge-k6"
 echo "--------------------------------------------------------------------------------------"
 echo "Le test de pointe vise à submerger votre système avec une surtension soudaine d'une charge dans un court laps de temps. "
 echo "--------------------------------------------------------------------------------------"

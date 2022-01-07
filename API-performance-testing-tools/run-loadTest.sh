@@ -12,7 +12,7 @@ var_path=${PWD}
 
 
 echo "--------------------------------------------------------------------------------------"
-echo "Load testing with Grafana dashboard http://localhost:3000/d/k6/k6-load-testing-results"
+echo "Load testing with Grafana dashboard http://localhost:3000/d/k6/resultats-des-tests-de-charge-k6"
 echo "--------------------------------------------------------------------------------------"
 echo "Pour les tests de charge, vous devez augmenter la VU à une bonne quantité et la maintenir pendant"
 echo "une période de temps fixe avant de la réduire à 0. Jetez un œil à l'exemple suivant, qui utilise 100 VU."
